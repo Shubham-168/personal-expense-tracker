@@ -30,7 +30,7 @@ git clone https://github.com/Shubham-168/personal-expense-tracker.git
 
 2. Install dependencies:
 
-    nm install
+    npm install
 
 3. Set up environment variables:
 
